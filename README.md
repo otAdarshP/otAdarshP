@@ -1,9 +1,12 @@
-<h1 align="right">Hello, I'm Adarsh from Bangalore, India</h1>
-<h3 align="right">The guy who goes AI & Back-End development.</h3>
+<h1 align="left">Hello, I'm Adarsh from Bangalore, India</h1>
+<h3 align="left">The guy who goes AI & Back-End development.</h3>
+
 
 - 🔭 I’m currently working on **SpringBoot and GenAI**
 - 📚 I'm currently in my pre-final year at Dayananda Sagar Institutions, Bangalore.
 - ⚡ I play Guitar and write poems in my free time.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-priyadarshi-ba88a4165?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4foqpsukr8u4%2bkzng67fug%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-priyadarshi-ba88a4165?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4foqpsukr8u4%2bkzng67fug%3d%3d" height="30" width="40" /></a>
