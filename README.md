@@ -1,9 +1,9 @@
 <h1 align="left">Hello, I'm Adarsh!</h1>
-<h3 align="left">The guy who does AI & Back-End development.</h3>
+<h3 align="left">The guy who does Back-End & AI development.</h3>
 
 
 - 🔭 I’m currently working on **SpringBoot & Deep Learning**.
-- 📚 I'm currently in my pre-final year at Dayananda Sagar Institutions, Bangalore.
+- 📚 I'm in my final year at Dayananda Sagar Institutions, Bangalore.
 - ⚡ I play Guitar and write poems in my free time.
 
 
