@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on **SpringBoot & Transformers**. (I code more in Java than what the GitHub stats show, lol)
-- 📚 I'm in my final year at Dayananda Sagar Institutions, Bangalore.
 - ⚡ I play Guitar and write poems in my free time.
 
 
