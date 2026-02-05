@@ -2,8 +2,8 @@
 <h3 align="left">The guy who does AI, Backend & Blockchain.</h3>
 
 
-- 🔭 I’m currently working on **SpringBoot & Transformers**. (I code more in Java than what the GitHub stats show, lol)
-- ⚡ I play Guitar and write poems in my free time.
+-  I’m currently working on **SpringBoot & Transformers**.
+-  I play Guitar and write poetry in my free time.
 
 
 
@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/adarsh_p0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh_p0808" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otadarshp&show_icons=true&locale=en&layout=compact" alt="otadarshp" /></p>
+
 
 
 
